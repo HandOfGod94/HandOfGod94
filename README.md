@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm a polyglot programmer, wanting to get hands on dirty
-on each new shiny thing :) 
+I'm a polyglot programmer, trying out every new shiny thing :) 
 
 - 🔭 I’m currently working on
   - [unmixtape](https://unmixtape.roadmap-ai.tech)
