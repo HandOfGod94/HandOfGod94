@@ -1,5 +1,44 @@
 ## Hi there 👋
 
+I'm a polyglot programmer, wanting to get hands on dirty
+on each new shiny thing :) 
+
+- 🔭 I’m currently working on
+  - [unmixtape](https://unmixtape.roadmap-ai.tech)
+    - Web app, providing a way to customize your spotify recommendations
+  - [Moonshi](https://moonshi.roadmap-ai.tech)
+    - Recurring expense trackr
+  - [JobTrackr](https://jobtrackr.roadmap-ai.tech)
+    - A personal no non-sense job trackr. 
+
+- 🌱 I’m currently learning
+  - Getting hands dirty in langchain and AI space (`#fomo`)
+  - Exploring low-code space, trying out few things in supabase, pocketbase, appwrite. So far, somewhat happy with pocketbase for personal projects
+- ⚡ Fun fact:  
+		My past jobs gave me an oppertunities to work on varied variety of stacks. Few of the intersting ones 
+  - Phoenix (Elixir), Clojure, go, ruby @ [gojek](https://www.gojek.io/)
+  - ruby, react-native @ [jiva.ag](https://www.jiva.ag/)
+	- Personally I have explored lots of languages, 
+      - obvious ones: python, dart, lua, rust
+      - few of the interesting ones: janet, fennel
+
+> Why? I don't intend to be proficient in all of these langauges, but learning these
+		does open up perspectives on how things could be modeled in different paradigms, with different
+		ways of thinking
+
+- 📫 How to reach me:
+  - Email: gahan94rakh@gmail.com
+  - Linkedin: https://www.linkedin.com/in/gahan-rakholia-2720a8102/
+  - Twitter: https://x.com/GahanRakholia
+
+	> Checkout my resume @ [here](./resume/gahan-rakholia-resume.pdf)
+
+### Past Experiences
+(2016 - to present)
+* Tech Lead @ [jiva.ag](https://www.jiva.ag/)
+* Senior Engineer @ [gojek](https://www.gojek.io/)
+* Developer @ [Blue Yonder](https://blueyonder.com/)
+
 <!--
 **HandOfGod94/HandOfGod94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
