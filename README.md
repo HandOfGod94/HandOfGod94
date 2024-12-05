@@ -14,7 +14,7 @@ I'm a polyglot programmer, trying out every new shiny thing :)
   - Getting hands dirty in langchain and AI space (`#fomo`)
   - Exploring low-code space, trying out few things in supabase, pocketbase, appwrite. So far, somewhat happy with pocketbase for personal projects
 - ⚡ Fun fact:  
-		My past jobs gave me opportunities to work on variety of stacks. Few of the intersting ones 
+		My past jobs gave me opportunities to work on variety of stacks. Few of the interesting ones 
   - Phoenix (Elixir), Clojure, go, ruby @ [gojek](https://www.gojek.io/)
   - ruby, react-native @ [jiva.ag](https://www.jiva.ag/)
   - Personally I have explored lots of languages, 
