@@ -18,7 +18,7 @@ on each new shiny thing :)
 		My past jobs gave me an oppertunities to work on varied variety of stacks. Few of the intersting ones 
   - Phoenix (Elixir), Clojure, go, ruby @ [gojek](https://www.gojek.io/)
   - ruby, react-native @ [jiva.ag](https://www.jiva.ag/)
-	- Personally I have explored lots of languages, 
+  - Personally I have explored lots of languages, 
       - obvious ones: python, dart, lua, rust
       - few of the interesting ones: janet, fennel
 
