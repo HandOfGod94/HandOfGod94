@@ -11,6 +11,7 @@ Polyglot programmer, trying out every new shiny thing :)
     - A personal no non-sense job trackr. 
 
 - 🌱 I’m currently learning
+  - Learning awesome [gleamlang](https://github.com/gleam-lang/gleam)
   - Getting hands dirty in langchain and AI space (`#fomo`)
   - Exploring low-code space, trying out few things in supabase, pocketbase, appwrite. So far, somewhat happy with pocketbase for personal projects
 - ⚡ Fun fact:  
