@@ -18,6 +18,7 @@ Polyglot programmer, trying out every new shiny thing :)
 		My past jobs gave me opportunities to work on variety of stacks. Few of the interesting ones 
   - Phoenix (Elixir), Clojure, go, ruby @ [gojek](https://www.gojek.io/)
   - ruby, react-native @ [jiva.ag](https://www.jiva.ag/)
+  - vert.x, node.ja @ [rapido](https://rapido.bike)
   - Personally I have explored lots of languages, 
       - obvious ones: python, dart, lua, rust
       - few of the interesting ones: janet, fennel
@@ -35,6 +36,7 @@ Polyglot programmer, trying out every new shiny thing :)
 
 ### Past Experiences
 (2016 - to present)
+* Lead Engineer @ [rapido](https://rapido.bike)
 * Tech Lead @ [jiva.ag](https://www.jiva.ag/)
 * Senior Engineer @ [gojek](https://www.gojek.io/)
 * Developer @ [Blue Yonder](https://blueyonder.com/)
